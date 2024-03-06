@@ -5,7 +5,7 @@
   ![html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
   ![css3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 </div>
-  #### Frontend
+<!--   #### Frontend
   ![html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
   ![css3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
   #### Backend
@@ -42,4 +42,4 @@
   ![windows](https://img.shields.io/badge/windows-0078D4?style=flat-square&logo=windows&logoColor=white)
   ![macos](https://img.shields.io/badge/macos-000000?style=flat-square&logo=macos&logoColor=white)
   ![ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-  ![centos](https://img.shields.io/badge/centos-262577?style=flat-square&logo=centos&logoColor=white)
+  ![centos](https://img.shields.io/badge/centos-262577?style=flat-square&logo=centos&logoColor=white) -->
