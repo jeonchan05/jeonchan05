@@ -29,7 +29,7 @@
 ### Cloud
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white)
 ![KT Cloud](https://img.shields.io/badge/KT%20Cloud-FF3300?style=flat-square&logo=icloud&logoColor=white)
-## Version Control
+### Version Control
 ![git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ### os
