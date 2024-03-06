@@ -60,6 +60,16 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white" />
 </div>
+<h6 align="left">✨ container ✨</h6>
+<div align="left">
+  <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
+<hr>
+<h3 align="left"> Studying </h3>
+<div align="left">
+    <img src="https://img.shields.io/badge/nestjs-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+</div>
 <hr>
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
