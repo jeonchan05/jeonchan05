@@ -75,7 +75,7 @@
     </td>
   </tr>
   <tr>
-    <td>Operating System</td>
+    <td>OS</td>
     <td>
       <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white">
       <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white">
@@ -105,8 +105,6 @@
     </td>
   </tr>
 </table>
-
-
 <hr>
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
