@@ -1,10 +1,10 @@
 # 무엇을 하든 최선을 다 하겠습니다. 👋
 ## Backend
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 ## Framework
 ![spring](https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
-Development Tools
+## Development Tools
 
 ## Version Control
 ![git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
