@@ -9,6 +9,10 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?&style=for-the-badge&logo=FastAPI&logoColor=white)
 ## Development Tools
 
+
+## Cloud
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-#4285F4?style=flat-square&logo=GoogleCloud&logoColor=white)
+![git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ## Version Control
 ![git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
