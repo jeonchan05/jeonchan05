@@ -14,7 +14,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ## Cloud
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white)
-![KT Cloud](https://img.shields.io/badge/https://i.namu.wiki/i/2NSiLMRNam5on_YU_Yn302HB9jmYkCHB1xggBsuHoGyiVNOLkb2UvO3PhCwW1hRtpqco6Zv0dzX2wbrJli9WhOpIC8Z9wbX_htWw_e8Fi9TtbgF61G_o7MGm8tGbOO7aOGadzkFEpfechyPmff9iBA.svg?style=flat-square&logo=git&logoColor=white)
+![KT Cloud](https://img.shields.io/badge/https://i.namu.wiki/i/2NSiLMRNam5on_YU_Yn302HB9jmYkCHB1xggBsuHoGyiVNOLkb2UvO3PhCwW1hRtpqco6Zv0dzX2wbrJli9WhOpIC8Z9wbX_htWw_e8Fi9TtbgF61G_o7MGm8tGbOO7aOGadzkFEpfechyPmff9iBA.svg?style=flat-square&logo=KTCLOUD&logoColor=white)
 ## Version Control
 ![git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
