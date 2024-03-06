@@ -1,7 +1,7 @@
 # 무엇을 하든 최선을 다 하겠습니다. 👋
 ## Web Stack
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
+![spring](https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
 <!--
 **jeonchan05/jeonchan05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
