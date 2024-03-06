@@ -14,7 +14,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ## Cloud
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white)
-![KT Cloud](https://img.shields.io/badge/icloud-3693F3?style=flat-square&logo=icloud&logoColor=white)
+![KT Cloud](https://img.shields.io/badge/KT%20Cloud-3693F3?style=flat-square&logo=icloud&logoColor=white)
 ## Version Control
 ![git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
