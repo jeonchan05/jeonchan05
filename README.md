@@ -1,6 +1,10 @@
 # Jeonchan05
 # 무엇을 하든 최선을 다 하겠습니다. 👋
-## Tech Stack
+<h3 align="center">✨ Tech Stack ✨</h3>
+<div align="center">
+  ![html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+  ![css3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+</div>
   #### Frontend
   ![html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
   ![css3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
