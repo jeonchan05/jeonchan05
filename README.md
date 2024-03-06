@@ -32,13 +32,6 @@
     </td>
   </tr>
   <tr>
-    <td>Development Tools</td>
-    <td>
-      <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=white">
-      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-    </td>
-  </tr>
-  <tr>
     <td>Database</td>
     <td>
       <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
@@ -68,6 +61,13 @@
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td>Development Tools</td>
+    <td>
+      <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=white">
+      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white">
     </td>
   </tr>
   <tr>
