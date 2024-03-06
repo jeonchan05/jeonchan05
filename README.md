@@ -8,8 +8,8 @@
 ![Express](https://img.shields.io/badge/Express-000000.svg?&style=for-the-badge&logo=Express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?&style=for-the-badge&logo=FastAPI&logoColor=white)
 ## Development Tools
-
-
+![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ## Cloud
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-#4285F4?style=flat-square&logo=GoogleCloud&logoColor=white)
 ![git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
