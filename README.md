@@ -21,7 +21,11 @@
 ## Version Control
 ![git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
+## os
+![windows](https://img.shields.io/badge/windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+![macos](https://img.shields.io/badge/macos-000000?style=flat-square&logo=macos&logoColor=white)
+![ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![centos](https://img.shields.io/badge/centos-262577?style=flat-square&logo=centos&logoColor=white)
 <!--
 **jeonchan05/jeonchan05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
