@@ -91,7 +91,7 @@
   </tr>
 </table>
 
-<h3>Studying</h3>
+<h3>📚 Studying</h3>
 <table>
   <tr>
     <th>Category</th>
