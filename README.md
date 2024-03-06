@@ -2,10 +2,6 @@
 <h3 align="left"> ⚒️ Skills + Tool </h3>
 <table>
   <tr>
-    <th>Category</th>
-    <th>Stack</th>
-  </tr>
-  <tr>
     <td>Frontend</td>
     <td>
       <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -93,10 +89,6 @@
 
 <h3>📚 Studying</h3>
 <table>
-  <tr>
-    <th>Category</th>
-    <th>Stack</th>
-  </tr>
   <tr>
     <td>Studying</td>
     <td>
