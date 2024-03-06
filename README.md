@@ -4,7 +4,7 @@
 <table>
   <tr>
     <th>Category</th>
-    <th>Tools</th>
+    <th>Stack</th>
   </tr>
   <tr>
     <td>Frontend</td>
@@ -96,7 +96,7 @@
 <table>
   <tr>
     <th>Category</th>
-    <th>Tools</th>
+    <th>Stack</th>
   </tr>
   <tr>
     <td>Studying</td>
