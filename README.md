@@ -66,8 +66,8 @@
   <tr>
     <td>Development Tools</td>
     <td>
-      <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=white">
       <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+      <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=white">
     </td>
   </tr>
   <tr>
