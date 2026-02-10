@@ -83,6 +83,7 @@
     <td>Container</td>
     <td>
       <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
+      <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
     </td>
   </tr>
 </table>
@@ -93,7 +94,6 @@
     <td>Studying</td>
     <td>
       <img src="https://img.shields.io/badge/nestjs-E0234E?style=flat-square&logo=nestjs&logoColor=white">
-      <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
     </td>
   </tr>
 </table>
