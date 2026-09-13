@@ -185,6 +185,22 @@ API, DB, Queue, Cache, WebSocket, Storage 사이에서 발생하는
 
 ---
 
+## 📚 Training
+
+### 더조은컴퓨터아카데미
+
+**빅데이터기반 AI알고리즘 서비스(추천, 트레이딩) 개발자 양성과정**
+
+`2023.01.16 – 2023.08.08`
+
+Java와 데이터베이스, 웹 개발부터 Python 기반 데이터 처리와  
+Machine Learning / Deep Learning, Linux · GCP까지 학습했습니다.
+
+`Java` `Database` `Web` `Python` `Data Processing`
+`Machine Learning` `Deep Learning` `Linux` `GCP`
+
+---
+
 ## 🔐 Activities
 
 **seKurity · Web Security**  
@@ -200,8 +216,8 @@ API, DB, Queue, Cache, WebSocket, Storage 사이에서 발생하는
 **Backend · Infrastructure · AI Systems · Security**뿐 아니라  
 기술을 다른 분야에 적용해 문제를 해결하는 데 관심이 있는 분들과 이야기하는 것을 좋아합니다.
 
-비슷한 고민이나 관심사를 가지고 있다면  
-**언제든 편하게 연락 주세요. 새로운 관점과 경험을 나누는 대화를 기다리고 있습니다.**
+**비슷한 관심사를 가진 분들의 연락은 언제나 반갑습니다.**  
+서로의 경험과 생각을 나눌 수 있다면 편하게 연락 주세요.
 
 <p>
   <a href="https://www.linkedin.com/in/jeonchan/">
