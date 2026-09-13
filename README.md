@@ -3,10 +3,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0F766E,100:2563EB&height=210&section=header&text=전찬%20%7C%20JEON%20CHAN&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Backend%20%2F%20Infrastructure%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <p>
+  <img src="https://img.shields.io/badge/2005.08-Born-475569?style=flat-square">
   <img src="https://img.shields.io/badge/Backend-0F172A?style=flat-square">
   <img src="https://img.shields.io/badge/AI%20Systems-0F766E?style=flat-square">
   <img src="https://img.shields.io/badge/Infrastructure-2563EB?style=flat-square">
-  <img src="https://img.shields.io/badge/Reliability-475569?style=flat-square">
   <img src="https://img.shields.io/badge/Security-991B1B?style=flat-square">
 </p>
 
@@ -43,22 +43,19 @@
 **Backend / Infrastructure**를 담당하고 있습니다.
 
 서비스를 직접 사용해 보면서  
-**사용자가 불편할 만한 부분이나 예상하지 못한 문제를 먼저 찾아 개선하는 것**을 좋아합니다.
+**사용자가 불편할 부분이나 놓치기 쉬운 문제를 먼저 찾아 개선하는 것**을 좋아합니다.
 
 문제가 생기면 같은 상황을 재현하고  
-로그·메트릭·네트워크·데이터 흐름을 따라 원인을 찾습니다.
+로그·메트릭·네트워크·데이터 흐름을 따라 원인을 좁힙니다.
 
 `재현 → 추적 → 수정 → 배포 → 검증`
 
-그리고 특정 분야나 기술에 스스로를 한정하기보다  
+특정 분야에 기술을 한정하기보다  
 **필요한 곳에 기술을 연결해 사람의 불편을 줄이는 것**에 관심이 있습니다.
-
-경영학, 컴퓨터공학, 중어중문학처럼 서로 다른 분야를 경험하면서도  
-계속 가지고 있는 질문은 하나입니다.
 
 > **“이걸 기술로 조금 더 편하게 만들 수 없을까?”**
 
-제가 만든 기술을 누군가 실제로 사용하고,  
+제가 만든 것을 누군가 실제로 사용하고,  
 그전보다 편해졌다고 느끼게 만드는 서비스를 만들고 싶습니다.
 
 ---
@@ -68,23 +65,17 @@
 ### AI Systems
 
 영상 입력부터 AI 추론, 이벤트 처리, 저장과 알림까지  
-**실제 서비스에서 모델이 동작하는 전체 흐름**을 다룹니다.
-
-`Triton Inference Server` `Ray` `YOLO` `VLM` `FFmpeg`
+**모델이 실제 서비스에서 동작하는 전체 흐름**을 다룹니다.
 
 ### Backend & Reliability
 
 API, DB, Queue, Cache, WebSocket, Storage 사이에서 발생하는  
 **지연 · 유실 · 중복 처리 · 상태 불일치** 문제를 해결합니다.
 
-`Node.js` `Express` `FastAPI` `RabbitMQ` `Redis` `Socket.IO`
-
 ### Infrastructure & Security
 
-Kubernetes 기반 배포·모니터링·장애 복구 환경을 관리하고  
+배포·모니터링·장애 복구 환경을 관리하고  
 인증·권한·세션·입력값·파일 처리 보안도 함께 다룹니다.
-
-`Kubernetes` `Terraform` `GitOps` `Prometheus` `Grafana`
 
 ---
 
@@ -130,6 +121,7 @@ Kubernetes 기반 배포·모니터링·장애 복구 환경을 관리하고
 <td>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white">
+  <img src="https://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white">
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
@@ -187,7 +179,7 @@ Kubernetes 기반 배포·모니터링·장애 복구 환경을 관리하고
 
 `Business` → `Computer Engineering` → `Chinese Language & Literature`
 
-**분야는 달라도, 기술로 문제를 해결하는 관심은 계속 이어지고 있습니다.**
+**다른 분야를 경험할수록, 기술을 적용할 수 있는 문제도 더 많이 보인다고 생각합니다.**
 
 </div>
 
@@ -203,24 +195,19 @@ Kubernetes 기반 배포·모니터링·장애 복구 환경을 관리하고
 
 ---
 
-<div align="center">
+## 🤝 Let's Connect
 
-### Connect
+**Backend · Infrastructure · AI Systems · Security**뿐 아니라  
+기술을 다른 분야에 적용해 문제를 해결하는 데 관심이 있는 분들과 이야기하는 것을 좋아합니다.
 
-<a href="https://github.com/jeonchan05">
-  <img src="https://img.shields.io/badge/GitHub-jeonchan05-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/jeonchan/">
-  <img src="https://img.shields.io/badge/LinkedIn-Jeonchan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="mailto:jeonchan0809@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+비슷한 고민이나 관심사를 가지고 있다면  
+**언제든 편하게 연락 주세요. 새로운 관점과 경험을 나누는 대화를 기다리고 있습니다.**
 
-<br><br>
-
-<sub>
-Backend · Infrastructure · AI Systems · Security
-</sub>
-
-</div>
+<p>
+  <a href="https://www.linkedin.com/in/jeonchan/">
+    <img src="https://img.shields.io/badge/LinkedIn-Jeonchan-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:jeonchan0809@gmail.com">
+    <img src="https://img.shields.io/badge/Email-jeonchan0809%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+</p>
