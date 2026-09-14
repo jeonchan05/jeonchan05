@@ -216,7 +216,7 @@ Machine Learning / Deep Learning, Linux · GCP까지 학습했습니다.
 **Backend · Infrastructure · AI Systems · Security**뿐 아니라  
 기술을 다른 분야에 적용해 문제를 해결하는 데 관심이 있는 분들과 이야기하는 것을 좋아합니다.
 
-**비슷한 관심사를 가진 분들의 연락은 언제나 반갑습니다.**  
+**비슷한 관심사를 가진 분들의 연락은 언제나 환영합니다!**  
 서로의 경험과 생각을 나눌 수 있다면 편하게 연락 주세요.
 
 <p>
